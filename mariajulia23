@@ -1,0 +1,27 @@
+<!--Maria Julia-->
+<!DOCTYPE html>
+<html>
+<head> 
+     <title>Ex2</title>
+     <style> 
+         body {
+            font-family: Arial, sans-serif;
+         }
+         .blue-line {
+            height: 3px;
+            background-color: blue;
+            margin: 10px 0;
+         }
+     </style>
+ </head>
+ <body> 
+     <h1>Mudanças de linha</h1>
+     <div class="blue-line"></div>
+     <p>"No mundo dos negócioss todos são pagos com duas moedas: Dinheiro e experiencia. Agarre a experiencia primeiro, o dinheiro vira depois." -- Harold Geneen</p>
+     <div class="blue-line"></div>
+     <p>"Ha homens que lutam um dia e sao bons.<br>
+     Ha outros que lutam muitos dias e sao e sao melhores.<br>
+     Mas ha os que lutam toda a vida, e estes sao imprescindiveis."<br> -- Bertold Brecht</p>
+     <div class="blue-line"></div>
+ </body>
+ </html> 
